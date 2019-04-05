@@ -1,0 +1,6 @@
+[submodule "submodules"]
+	path = submodules
+	url = https://github.com/felixrieseberg/electron-windows-store.git
+[submodule "SubModuleVanAli"]
+	path = SubModuleVanAli
+	url = https://github.com/aliboulbaal/testing-subtrees-sub-repo.git
